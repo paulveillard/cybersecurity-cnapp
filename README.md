@@ -12,5 +12,5 @@ An ongoing & curated collection of awesome software best practices and technique
 
 
 <p align="center">
-  <img src="https://github.com/paulveillard/cybersecurity/blob/main/img/cnapp.jpg?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/paulveillard/cybersecurity-cnapp/blob/main/img/cnapp.jpg?raw=true" alt="Sublime's custom image"/>
 </p>
