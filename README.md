@@ -20,10 +20,22 @@ An ongoing & curated collection of awesome software best practices and technique
 </p>
 
 ## `Table of Contents`
- - [ What is Cloud-Native Application Protection Platforms](#)
+ - [What is Cloud-Native Application Protection Platforms](#)
+ - [The Importance of a CNAPP](#)
  - [CNAPP & DeveSecops](#)
  - [An Array of CNAPP Benefits](#)
  - [Explore the future of CNAPP and cloud security](#)
+
+
+## The Importance of a CNAPP
+Without a CNAPP, your enterprise may miss critical software package upgrades or overlook a system misconfiguration in your application’s critical path. As a result, your organization could lose certifications or suffer a security breach. CNAPPs bring significant benefits:
+
+- Unified cloud security that includes cloud workload protection (CWP), cloud security posture management (CSPM), cloud infrastructure entitlement management (CIEM), and infrastructure as code (IaC)
+- Single pane of glass to visualize security threats/alerts and respond quickly
+- A standardized security monitoring tool that can be applied to bespoke deployment strategies (such as serverless, Kubernetes, or multi-cloud)
+- A centralized source of truth for team compliance that helps organizations move toward a more robust security posture
+
+
 
 ## CNAPP & DevSecOps
 Lack of visibility is a major driver of CNAPP adoption and security responsibility has expanded beyond infosec teams to include additional personas. Gartner shares the following insight:  
@@ -66,8 +78,10 @@ As developers increasingly utilize container technology, CNAPPs will need to pro
 One of the most significant advantages of CNAPPs is their ability to provide a unified view of risk across cloud environments. By connecting the dots across various layers of cloud infrastructure, CNAPPs help organizations prioritize risks effectively while consolidating siloed point products, reducing the burden on developers and security teams. 
 
 > Furthermore, by balancing the need for product agility with security requirements, CNAPPs support innovation rather than inhibit it.
+>
+> 
 
-# Explore the future of CNAPP and cloud security
+## Explore the future of CNAPP and cloud security
 - Building a secure-first organization is critical to counter the continual stream of cyberthreats and the increasingly sophisticated nature of them. 
 > CNAPP combines several cybersecurity capabilities—cloud security posture management (CSPM), cloud infrastructure entitlement management (CIEM), and cloud workload protection (CWP), among others—into one platform. This platform protects your organization through every operation, from concept development to runtime use. And it’s tailored to applications native to a multicloud environment. As a result, you can both ensure management access and strengthen app-related defenses against potential vulnerabilities in multicloud setups.
 
@@ -75,14 +89,16 @@ One of the most significant advantages of CNAPPs is their ability to provide a u
   <img src="https://github.com/paulveillard/cybersecurity-cnapp/blob/main/img/cnapp-3.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
+## Considerations When Choosing a CNAPP Tool
+When evaluating CNAPP solutions, consider your organization’s needs. Because the market for full-fledged CNAPP products is extensive, your decision-making process should include the use of a rubric for the following aspects.
 
-## The Importance of a CNAPP
-Without a CNAPP, your enterprise may miss critical software package upgrades or overlook a system misconfiguration in your application’s critical path. As a result, your organization could lose certifications or suffer a security breach. CNAPPs bring significant benefits:
+### A Unified Platform
+The ability to view threats and security vulnerabilities across an organization’s cloud landscape is essential for any CNAPP offering. A CNAPP that lets you see cloud-based, on-premises, and hybrid environments — all in one platform — ensures you’ll be alerted to any issues. A unified platform typically combines:
 
-- Unified cloud security that includes cloud workload protection (CWP), cloud security posture management (CSPM), cloud infrastructure entitlement management (CIEM), and infrastructure as code (IaC)
-- Single pane of glass to visualize security threats/alerts and respond quickly
-- A standardized security monitoring tool that can be applied to bespoke deployment strategies (such as serverless, Kubernetes, or multi-cloud)
-- A centralized source of truth for team compliance that helps organizations move toward a more robust security posture
+- **Cloud Security Posture Management (CSPM):** Monitoring and responding to threats and maintaining compliance across the cloud
+- Container Security: Security and monitoring of containerized applications, including IaC, image scanning, container and code scanning, and pre-runtime protection
+- Cloud Workload Protection: Securing machines and serverless systems
+- **Cloud Infrastructure Entitlement Management (CIEM):** Controlling and mapping out permissions models in multi-cloud environments
 
 
 
