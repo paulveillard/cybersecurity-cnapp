@@ -103,7 +103,17 @@ There is a wide range of solutions on the market that help to secure the way in 
 - It provides network-based access controls to cloud services. They commonly provide capabilities that are a convergence of SD-WAN (Software Defined Wide Area Networking), SWG (Secure Web Gateways), VPN (Virtual Private Network) and Remote Browser Isolation (RBI) to implement Zero Trust access controls based on the combination of user and device identities.
 
 #### `CIEM (Cloud Infrastructure Entitlement Management):`
-- It provides controls over the entitlements possessed by virtual resources. In a software defined infrastructure,
+- It provides controls over the entitlements possessed by virtual resources. In a software defined infrastructure, such as that provided by a cloud service, the software defined elements need
+entitlements to operate and threat actors can exploit excessive entitlements.
+
+CSNS (Cloud Service Network Security):
+provides capabilities to help to secure the in-cloud network, combining tools such as web application firewalls, secure web gateways, and DDoS protection.
+•
+CSPM (Cloud Security Posture Management) provides a way to continuously identify, visualize, and manage an overview of the risks associated with the use of IaaS cloud services.
+•
+CWPP (Cloud Workload Protection Platform) provides controls at the microservices instance/container level. They typically include threat detection, intrusion prevention, anti-malware, application control, and vulnerability monitoring.
+•
+DSPM (Data Security Posture Management) provides a way to discover, catalog and ensure protection and compliance of data held across multiple clouds, from databases to unstructured object storage services.
 
 
 
