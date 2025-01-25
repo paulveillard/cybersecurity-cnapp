@@ -20,11 +20,12 @@ An ongoing & curated collection of awesome software best practices and technique
 </p>
 
 ## `Table of Contents`
+ - [ What is Cloud-Native Application Protection Platforms](#)
  - [CNAPP & DeveSecops](#)
  - [An Array of CNAPP Benefits](#)
  - [Explore the future of CNAPP and cloud security](#)
 
-# CNAPP & DevSecOps
+## CNAPP & DevSecOps
 Lack of visibility is a major driver of CNAPP adoption and security responsibility has expanded beyond infosec teams to include additional personas. Gartner shares the following insight:  
 
 > With operational responsibilities shifting toward developers and cloud architects, the need for advanced tools to address vulnerabilities, deploy infrastructure as code and manage production implementations has grown to accommodate this expanded scope. Proactively identifying and prioritizing risks during development, while providing developers with adequate context, is essential due to developers perceiving security as an obstacle.
@@ -78,10 +79,10 @@ One of the most significant advantages of CNAPPs is their ability to provide a u
 ## The Importance of a CNAPP
 Without a CNAPP, your enterprise may miss critical software package upgrades or overlook a system misconfiguration in your application’s critical path. As a result, your organization could lose certifications or suffer a security breach. CNAPPs bring significant benefits:
 
-Unified cloud security that includes cloud workload protection (CWP), cloud security posture management (CSPM), cloud infrastructure entitlement management (CIEM), and infrastructure as code (IaC)
-Single pane of glass to visualize security threats/alerts and respond quickly
-A standardized security monitoring tool that can be applied to bespoke deployment strategies (such as serverless, Kubernetes, or multi-cloud)
-A centralized source of truth for team compliance that helps organizations move toward a more robust security posture
+- Unified cloud security that includes cloud workload protection (CWP), cloud security posture management (CSPM), cloud infrastructure entitlement management (CIEM), and infrastructure as code (IaC)
+- Single pane of glass to visualize security threats/alerts and respond quickly
+- A standardized security monitoring tool that can be applied to bespoke deployment strategies (such as serverless, Kubernetes, or multi-cloud)
+- A centralized source of truth for team compliance that helps organizations move toward a more robust security posture
 
 
 
