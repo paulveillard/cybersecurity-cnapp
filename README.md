@@ -162,6 +162,13 @@ Since the aim of these solutions is to manage risk in how cloud IaaS services ar
 > the solution should discover and analyze cloud compute services owned to identify, report, and remediate risky configurations. It should cover VMs with risky patch levels, VMs with unmanaged vulnerabilities, and risky configurations for a wide range of VM and OS types. It should also support these capabilities for serverless computing elements.
 
 
+Cloud Container Security – the solution should be able to discover and report on cloud container services owned. Identify / report / remediate insecure container images, container registries, and deployments for common container environments such as Kubernetes.
+
+Cloud Application Security – the solution should be able to discover, and report on cloud apps deployed and identify / report / remediate apps exposed to the internet, apps with exposed vulnerabilities (e.g., SQL Injection), apps without appropriate traffic controls (e.g., WAF), and apps with other risky deployments.
+
+Application Programming Interface (API) Security – the solution should be able to discover and identify / report / remediate APIs exposed to the internet and APIs without appropriate access controls, including those developed by the organization, as well as management interfaces provided by cloud services themselves.
+Risk Reporting – the solution should provide capabilities to report on the risks that have been discovered. The reports should provide information on the likelihood of the risk and its impact. It should provide a report of the aggregated overall risk / security posture based on its analysis, suitable for presentation to board level management. The reporting capabilities should be interactive, allowing the user to expand the overall risks to identify the underlying causes. The solution should also support integration with workflow / ticketing systems to recommend, initiate, and track remediation.
+Compliance and Best Practices – the solution should support the comparison and reporting of security posture against a range of common security frameworks and best practices such as NIST, ISO/IEC 2700x, CIS as well as major regulatory obligations.
 
 
 
