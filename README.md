@@ -106,9 +106,9 @@ There is a wide range of solutions on the market that help to secure the way in 
 - It provides controls over the entitlements possessed by virtual resources. In a software defined infrastructure, such as that provided by a cloud service, the software defined elements need
 entitlements to operate and threat actors can exploit excessive entitlements.
 
-CSNS (Cloud Service Network Security):
-provides capabilities to help to secure the in-cloud network, combining tools such as web application firewalls, secure web gateways, and DDoS protection.
-•
+#### CSNS (Cloud Service Network Security):
+- It provides capabilities to help to secure the in-cloud network, combining tools such as web application firewalls, secure web gateways, and DDoS protection.
+
 
 #### CSPM (Cloud Security Posture Management):
 - It provides a way to continuously identify, visualize, and manage an overview of the risks associated with the use of IaaS cloud services.
