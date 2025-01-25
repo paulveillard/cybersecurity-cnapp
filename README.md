@@ -82,7 +82,7 @@ One of the most significant advantages of CNAPPs is their ability to provide a u
 >
 > 
 
-## Explore the future of CNAPP and cloud security
+## `Explore the future of CNAPP and cloud security`
 - Building a secure-first organization is critical to counter the continual stream of cyberthreats and the increasingly sophisticated nature of them. 
 > CNAPP combines several cybersecurity capabilities—cloud security posture management (CSPM), cloud infrastructure entitlement management (CIEM), and cloud workload protection (CWP), among others—into one platform. This platform protects your organization through every operation, from concept development to runtime use. And it’s tailored to applications native to a multicloud environment. As a result, you can both ensure management access and strengthen app-related defenses against potential vulnerabilities in multicloud setups.
 
@@ -90,10 +90,10 @@ One of the most significant advantages of CNAPPs is their ability to provide a u
   <img src="https://github.com/paulveillard/cybersecurity-cnapp/blob/main/img/cnapp-3.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
-## Considerations When Choosing a CNAPP Tool
+## `Considerations When Choosing a CNAPP Tool`
 When evaluating CNAPP solutions, consider your organization’s needs. Because the market for full-fledged CNAPP products is extensive, your decision-making process should include the use of a rubric for the following aspects. The ability to view threats and security vulnerabilities across an organization’s cloud landscape is essential for any CNAPP offering. A CNAPP that lets you see cloud-based, on-premises, and hybrid environments — all in one platform — ensures you’ll be alerted to any issues. A unified platform typically combines:
 
-### A Unified Platform
+### ``A Unified Platform``
 There is a wide range of solutions on the market that help to secure the way in which cloud services are used. These tools provide additional controls that are relevant to the security threats and risks that are relevant to the cloud. These tools include:
 
 #### CASB (Cloud Access Security Brokers):
@@ -109,7 +109,7 @@ There is a wide range of solutions on the market that help to secure the way in 
 
 
 
-## License
+## `License`
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
