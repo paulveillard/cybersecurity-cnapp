@@ -42,8 +42,8 @@ Meanwhile, as cloud security becomes democratized internally, attackers are also
     -  and the misconfiguration of cloud management and control features.
 Additionally, APIs and the software supply chain itself have become targets for potential attacks.
 
-# An Array of CNAPP Benefits 
-## Broad Adoption of Centralized Platforms 
+## An Array of CNAPP Benefits 
+### Broad Adoption of Centralized Platforms 
 
 - By 2029, Gartner predicts that over 80% of enterprises will adopt a centralized platform engineering and operations approach to facilitate DevOps self-service and scaling, a significant increase from less than 30% in 2023. In our opinion, this shift not only emphasizes the need for streamlined DevOps practices but also highlights the necessity for a cohesive security strategy that encompasses the entire development lifecycle. With a centralized approach, organizations can foster self-service and scale while maintaining robust security throughout the development process.
 
@@ -51,17 +51,17 @@ Additionally, APIs and the software supply chain itself have become targets for 
   <img src="https://github.com/paulveillard/cybersecurity-cnapp/blob/main/img/cnapp-2.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
-## Facilitating a Shift Toward Containerization 
+### Facilitating a Shift Toward Containerization 
 In the report Gartner projects that by 2029, 35% of all enterprise applications will run in containers, up from less than 15% in 2023.  
 
 > The surge of containerization underscores the increasing reliance on cloud-native architectures and indicates a corresponding need for security solutions that can manage the complexities associated with container environments.  
 
 As developers increasingly utilize container technology, CNAPPs will need to provide enhanced visibility and control over these dynamic workloads.  
 
-## Cross-Team Collaboration 
+### Cross-Team Collaboration 
 - CNAPPs break siloes between application development, cloud architecture, and security operations teams. Having a centralized platform enhances communication and risk identification throughout the development lifecycle. With real-time visibility into workloads and effective vulnerability management, “CNAPPs aim to deliver a comprehensive analysis of various elements and characteristics of the application and cloud environment with a strong emphasis on empowering developers to take responsibility for application risk’’. 
 
-## A Unified Approach to Risk Management  
+### A Unified Approach to Risk Management  
 One of the most significant advantages of CNAPPs is their ability to provide a unified view of risk across cloud environments. By connecting the dots across various layers of cloud infrastructure, CNAPPs help organizations prioritize risks effectively while consolidating siloed point products, reducing the burden on developers and security teams. 
 
 > Furthermore, by balancing the need for product agility with security requirements, CNAPPs support innovation rather than inhibit it.
@@ -74,10 +74,23 @@ One of the most significant advantages of CNAPPs is their ability to provide a u
   <img src="https://github.com/paulveillard/cybersecurity-cnapp/blob/main/img/cnapp-3.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
+
+## The Importance of a CNAPP
+Without a CNAPP, your enterprise may miss critical software package upgrades or overlook a system misconfiguration in your application’s critical path. As a result, your organization could lose certifications or suffer a security breach. CNAPPs bring significant benefits:
+
+Unified cloud security that includes cloud workload protection (CWP), cloud security posture management (CSPM), cloud infrastructure entitlement management (CIEM), and infrastructure as code (IaC)
+Single pane of glass to visualize security threats/alerts and respond quickly
+A standardized security monitoring tool that can be applied to bespoke deployment strategies (such as serverless, Kubernetes, or multi-cloud)
+A centralized source of truth for team compliance that helps organizations move toward a more robust security posture
+
+
+
+
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 
 To the extent possible under law, [Paul Veillard](https://github.com/paulveillard/) has waived all copyright and related or neighboring rights to this work.
 
