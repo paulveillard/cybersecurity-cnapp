@@ -74,5 +74,10 @@ One of the most significant advantages of CNAPPs is their ability to provide a u
   <img src="https://github.com/paulveillard/cybersecurity-cnapp/blob/main/img/cnapp-3.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
+## License
+MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+To the extent possible under law, [Paul Veillard](https://github.com/paulveillard/) has waived all copyright and related or neighboring rights to this work.
 
