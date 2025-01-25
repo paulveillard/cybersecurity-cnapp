@@ -31,3 +31,7 @@ Lack of visibility is a major driver of CNAPP adoption and security responsibili
 <p align="center">
   <img src="https://github.com/paulveillard/cybersecurity-cnapp/blob/main/img/cnapp-1.png?raw=true" alt="Sublime's custom image"/>
 </p>
+
+Meanwhile, as cloud security becomes democratized internally, attackers are also evolving their techniques and targets: 
+
+- The attack surface of cloud-native applications and infrastructure is expanding, with attackers focusing on the runtime environment, including network, compute, storage, identities and permissions, and the misconfiguration of cloud management and control features. Additionally, APIs and the software supply chain itself have become targets for potential attacks.
