@@ -121,7 +121,15 @@ entitlements to operate and threat actors can exploit excessive entitlements.
 ####  `DSPM (Data Security Posture Management):`
 - It provides a way to discover, catalog and ensure protection and compliance of data held across multiple clouds, from databases to unstructured object storage services.
 
+### Delivery Models
+Since the aim of these solutions is to manage risk in how cloud IaaS services are used, it is likely that most will be delivered through the cloud to provide tight integration with the services that they are securing. However, it is possible that some solutions could be delivered and deployed on-premises or at the edge.
 
+**Deployment models for CNAPP include:**
+
+- a physical appliance – that can be deployed on-premises or in a data center.
+- a virtual appliance that can be deployed on-premises or in a cloud service.
+- a service from multi-tenant public cloud services where updates and patches are deployed by the service provider across all tenants with full automation. This is a growing market because of ease of adoption combined with the scalability offered by public clouds.
+- single-tenant services that can operate in various deployment models, i.e., in private or public clouds or even on-premises, where they are operated in a full as-a-service model, i.e., services where updates, patches, etc. are deployed by the service provider across all tenants with full automation.
 
 
 
