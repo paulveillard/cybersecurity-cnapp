@@ -42,7 +42,7 @@ Meanwhile, as cloud security becomes democratized internally, attackers are also
 Additionally, APIs and the software supply chain itself have become targets for potential attacks.
 
 # An Array of CNAPP Benefits 
-##Broad Adoption of Centralized Platforms 
+## Broad Adoption of Centralized Platforms 
 
 - By 2029, Gartner predicts that over 80% of enterprises will adopt a centralized platform engineering and operations approach to facilitate DevOps self-service and scaling, a significant increase from less than 30% in 2023. In our opinion, this shift not only emphasizes the need for streamlined DevOps practices but also highlights the necessity for a cohesive security strategy that encompasses the entire development lifecycle. With a centralized approach, organizations can foster self-service and scale while maintaining robust security throughout the development process.
 
