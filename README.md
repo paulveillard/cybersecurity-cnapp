@@ -22,7 +22,7 @@ An ongoing & curated collection of awesome software best practices and technique
 ## `Table of Contents`
  - [CNAPP & DeveSecops](#)
  - [An Array of CNAPP Benefits](#)
- - [Explore the future of CNAPP and cloud security]
+ - [Explore the future of CNAPP and cloud security](#)
 
 # CNAPP & DevSecOps
 Lack of visibility is a major driver of CNAPP adoption and security responsibility has expanded beyond infosec teams to include additional personas. Gartner shares the following insight:  
