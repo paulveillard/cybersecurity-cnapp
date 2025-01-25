@@ -90,15 +90,19 @@ One of the most significant advantages of CNAPPs is their ability to provide a u
 </p>
 
 ## Considerations When Choosing a CNAPP Tool
-When evaluating CNAPP solutions, consider your organization’s needs. Because the market for full-fledged CNAPP products is extensive, your decision-making process should include the use of a rubric for the following aspects.
+When evaluating CNAPP solutions, consider your organization’s needs. Because the market for full-fledged CNAPP products is extensive, your decision-making process should include the use of a rubric for the following aspects. The ability to view threats and security vulnerabilities across an organization’s cloud landscape is essential for any CNAPP offering. A CNAPP that lets you see cloud-based, on-premises, and hybrid environments — all in one platform — ensures you’ll be alerted to any issues. A unified platform typically combines:
 
 ### A Unified Platform
-The ability to view threats and security vulnerabilities across an organization’s cloud landscape is essential for any CNAPP offering. A CNAPP that lets you see cloud-based, on-premises, and hybrid environments — all in one platform — ensures you’ll be alerted to any issues. A unified platform typically combines:
+There is a wide range of solutions on the market that help to secure the way in which cloud services are used. These tools provide additional controls that are relevant to the security threats and risks that are relevant to the cloud. These tools include:
+### A Unified Platform
+•
+CASB (Cloud Access Security Brokers) provides control over which SaaS services organizational users can access. CASB discovers shadow IT usage and prevents access to unsanctioned services that the organization considers to be too risky. They often integrate with the major SaaS services to implement fine-grained controls over how these sanctioned services can be used. They also include or integrate with DLP (Data Leakage Prevention) solutions to control which data can be moved to cloud services.
+•
+SASE (Secure Access Service Edge) provides network-based access controls to cloud services. They commonly provide capabilities that are a convergence of SD-WAN (Software Defined Wide Area Networking), SWG (Secure Web Gateways), VPN (Virtual Private Network) and Remote Browser Isolation (RBI) to implement Zero Trust access controls based on the combination of user and device identities.
+•
+CIEM (Cloud Infrastructure Entitlement Management) provides controls over the entitlements possessed by virtual resources. In a software defined infrastructure,The ability to view threats and security vulnerabilities across an organization’s cloud landscape is essential for any CNAPP offering. A CNAPP that lets you see cloud-based, on-premises, and hybrid environments — all in one platform — ensures you’ll be alerted to any issues. A unified platform typically combines:
 
-- **Cloud Security Posture Management (CSPM):** Monitoring and responding to threats and maintaining compliance across the cloud
-- Container Security: Security and monitoring of containerized applications, including IaC, image scanning, container and code scanning, and pre-runtime protection
-- Cloud Workload Protection: Securing machines and serverless systems
-- **Cloud Infrastructure Entitlement Management (CIEM):** Controlling and mapping out permissions models in multi-cloud environments
+
 
 
 
