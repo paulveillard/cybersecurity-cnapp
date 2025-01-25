@@ -146,9 +146,11 @@ Multi-Cloud Coverage – there are now many public and private cloud services av
 
 Service Inventory – the range of cloud services provided and the dynamic nature of how services are acquired and deployed makes it possible for organizations to be unaware of the services that are in use. This adds to the risks since these services and service elements may not be configured correctly. The solution should be able to dynamically discover and record the services and service elements owned or in use by the customer. In addition, the solution should be able to interoperate with existing CMDB (Configuration Management Data Base) solutions.
 
-Cloud Entitlements Risks – the solution should dynamically discover and analyze the user accounts (people and services) with access to the cloud services and their entitlements. It should identify, report, and remediate user accounts with excessive / abnormal privileges and other risks such as orphan accounts (those without owners), as well as accounts with weak authentication policies.
+### Cloud Entitlements Risks 
+> the solution should dynamically discover and analyze the user accounts (people and services) with access to the cloud services and their entitlements. It should identify, report, and remediate user accounts with excessive / abnormal privileges and other risks such as orphan accounts (those without owners), as well as accounts with weak authentication policies.
 
-Data Storage Security – the solution should discover and analyze the cloud data storage services to identify, report, and remediate excessive risk. This includes data storage services without appropriate controls (e.g., not encrypted), data storage with public access, and data storage directly exposed to the Internet for a wide range of cloud storage types (File Systems, Object Stores, Databases, etc.).
+### Data Storage Security 
+> the solution should discover and analyze the cloud data storage services to identify, report, and remediate excessive risk. This includes data storage services without appropriate controls (e.g., not encrypted), data storage with public access, and data storage directly exposed to the Internet for a wide range of cloud storage types (File Systems, Object Stores, Databases, etc.).
 
 ### Cloud Network Security 
 > the solution should discover and analyze cloud network security controls to support a Zero Trust approach to network management. It should discover and map cloud networks, as well as identify, report, and remediate risky firewall configurations, risky permitted network protocols, and poor TLS certificate management and rotation.
