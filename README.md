@@ -21,7 +21,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## `Table of Contents`
  - [CNAPP & DeveSecops](#)
- - dd
+ - [An Array of CNAPP Benefits](#)
 
 # CNAPP & DevSecOps
 Lack of visibility is a major driver of CNAPP adoption and security responsibility has expanded beyond infosec teams to include additional personas. Gartner shares the following insight:  
@@ -40,3 +40,12 @@ Meanwhile, as cloud security becomes democratized internally, attackers are also
     -  identities and permissions,
     -  and the misconfiguration of cloud management and control features.
 Additionally, APIs and the software supply chain itself have become targets for potential attacks.
+
+# An Array of CNAPP Benefits 
+##Broad Adoption of Centralized Platforms 
+
+- By 2029, Gartner predicts that over 80% of enterprises will adopt a centralized platform engineering and operations approach to facilitate DevOps self-service and scaling, a significant increase from less than 30% in 2023. In our opinion, this shift not only emphasizes the need for streamlined DevOps practices but also highlights the necessity for a cohesive security strategy that encompasses the entire development lifecycle. With a centralized approach, organizations can foster self-service and scale while maintaining robust security throughout the development process.
+
+  <p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-cnapp/blob/main/img/cnapp-2.png?raw=true" alt="Sublime's custom image"/>
+</p>
