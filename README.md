@@ -134,6 +134,30 @@ Since the aim of these solutions is to manage risk in how cloud IaaS services ar
 
 ## Required Capabilities
 
+### Basic capabilities:
+> include analyzing and managing the risks related to the way in which the customer’s cloud IaaS services are configured and being used. These risks include those related to identities and access, the data held, and the security controls implemented to secure network access, compute service elements, container-based DevOps, and applications.
+
+Deployment 
+> how quickly, easily, and repeatably can the solution be deployed. This category considers deployment options that the solution offers and whether the solution requires agents installed on the protected systems.
+
+Administration – how easy it is to administer the solution. An example would be wizards provided for ease of use and CLI/APIs for automation. It covers the capabilities the solutions provide to securely delegate administration to lines of business managers and application owners.
+
+Multi-Cloud Coverage – there are now many public and private cloud services available, and most organizations use more than one of these. Furthermore, these services are based on a wide range of different technologies, many of which are proprietary. Therefore, it is important that the solution covers the risks for this range of cloud services and technologies. These should include the major hyperscale cloud services such as Amazon AWS, Microsoft Azure, IBM, Google Cloud, and Oracle OCI as well as others.
+
+Service Inventory – the range of cloud services provided and the dynamic nature of how services are acquired and deployed makes it possible for organizations to be unaware of the services that are in use. This adds to the risks since these services and service elements may not be configured correctly. The solution should be able to dynamically discover and record the services and service elements owned or in use by the customer. In addition, the solution should be able to interoperate with existing CMDB (Configuration Management Data Base) solutions.
+
+Cloud Entitlements Risks – the solution should dynamically discover and analyze the user accounts (people and services) with access to the cloud services and their entitlements. It should identify, report, and remediate user accounts with excessive / abnormal privileges and other risks such as orphan accounts (those without owners), as well as accounts with weak authentication policies.
+
+Data Storage Security – the solution should discover and analyze the cloud data storage services to identify, report, and remediate excessive risk. This includes data storage services without appropriate controls (e.g., not encrypted), data storage with public access, and data storage directly exposed to the Internet for a wide range of cloud storage types (File Systems, Object Stores, Databases, etc.).
+
+Cloud Network Security – the solution should discover and analyze cloud network security controls to support a Zero Trust approach to network management. It should discover and map cloud networks, as well as identify, report, and remediate risky firewall configurations, risky permitted network protocols, and poor TLS certificate management and rotation.
+
+Cloud Compute Service Security – the solution should discover and analyze cloud compute services owned to identify, report, and remediate risky configurations. It should cover VMs with risky patch levels, VMs with unmanaged vulnerabilities, and risky configurations for a wide range of VM and OS types. It should also support these capabilities for serverless computing elements.
+
+
+
+
+
 ## `License`
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 
