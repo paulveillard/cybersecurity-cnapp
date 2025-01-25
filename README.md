@@ -28,3 +28,6 @@ Lack of visibility is a major driver of CNAPP adoption and security responsibili
 
 > With operational responsibilities shifting toward developers and cloud architects, the need for advanced tools to address vulnerabilities, deploy infrastructure as code and manage production implementations has grown to accommodate this expanded scope. Proactively identifying and prioritizing risks during development, while providing developers with adequate context, is essential due to developers perceiving security as an obstacle.
 
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-cnapp/blob/main/img/cnapp-1.jpg?raw=true" alt="Sublime's custom image"/>
+</p>
