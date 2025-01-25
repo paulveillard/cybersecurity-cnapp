@@ -22,6 +22,7 @@ An ongoing & curated collection of awesome software best practices and technique
 ## `Table of Contents`
  - [CNAPP & DeveSecops](#)
  - [An Array of CNAPP Benefits](#)
+ - [Explore the future of CNAPP and cloud security]
 
 # CNAPP & DevSecOps
 Lack of visibility is a major driver of CNAPP adoption and security responsibility has expanded beyond infosec teams to include additional personas. Gartner shares the following insight:  
@@ -68,5 +69,10 @@ One of the most significant advantages of CNAPPs is their ability to provide a u
 # Explore the future of CNAPP and cloud security
 - Building a secure-first organization is critical to counter the continual stream of cyberthreats and the increasingly sophisticated nature of them. 
 > CNAPP combines several cybersecurity capabilities—cloud security posture management (CSPM), cloud infrastructure entitlement management (CIEM), and cloud workload protection (CWP), among others—into one platform. This platform protects your organization through every operation, from concept development to runtime use. And it’s tailored to applications native to a multicloud environment. As a result, you can both ensure management access and strengthen app-related defenses against potential vulnerabilities in multicloud setups.
+
+  <p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-cnapp/blob/main/img/cnapp-3.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 
 
