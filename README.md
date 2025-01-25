@@ -5,7 +5,7 @@ An ongoing & curated collection of awesome software best practices and technique
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 
-## What is Cloud-Native Application Protection Platforms?
+## `What is Cloud-Native Application Protection Platforms?`
 
 **Cloud-native application protection platforms (CNAPPs)** are a unified and tightly integrated set of security and compliance capabilities, designed to protect cloud-native infrastructure and applications. 
 - According to [Gartner](https://www.gartner.com/reviews/market/cloud-native-application-protection-platforms), CNAPP is a security platform that provides consistent visibility and control over all cloud-native applications.
@@ -28,7 +28,7 @@ An ongoing & curated collection of awesome software best practices and technique
  - [Considerations When Choosing a CNAPP Tool](#)
 
 
-## The Importance of a CNAPP
+## `The Importance of a CNAPP`
 Without a CNAPP, your enterprise may miss critical software package upgrades or overlook a system misconfiguration in your application’s critical path. As a result, your organization could lose certifications or suffer a security breach. CNAPPs bring significant benefits:
 
 - Unified cloud security that includes cloud workload protection (CWP), cloud security posture management (CSPM), cloud infrastructure entitlement management (CIEM), and infrastructure as code (IaC)
@@ -38,7 +38,7 @@ Without a CNAPP, your enterprise may miss critical software package upgrades or 
 
 
 
-## CNAPP & DevSecOps
+## `CNAPP & DevSecOps`
 Lack of visibility is a major driver of CNAPP adoption and security responsibility has expanded beyond infosec teams to include additional personas. Gartner shares the following insight:  
 
 > With operational responsibilities shifting toward developers and cloud architects, the need for advanced tools to address vulnerabilities, deploy infrastructure as code and manage production implementations has grown to accommodate this expanded scope. Proactively identifying and prioritizing risks during development, while providing developers with adequate context, is essential due to developers perceiving security as an obstacle.
@@ -56,7 +56,7 @@ Meanwhile, as cloud security becomes democratized internally, attackers are also
     -  and the misconfiguration of cloud management and control features.
 Additionally, APIs and the software supply chain itself have become targets for potential attacks.
 
-## An Array of CNAPP Benefits 
+## `An Array of CNAPP Benefits` 
 ### Broad Adoption of Centralized Platforms 
 
 - By 2029, Gartner predicts that over 80% of enterprises will adopt a centralized platform engineering and operations approach to facilitate DevOps self-service and scaling, a significant increase from less than 30% in 2023. In our opinion, this shift not only emphasizes the need for streamlined DevOps practices but also highlights the necessity for a cohesive security strategy that encompasses the entire development lifecycle. With a centralized approach, organizations can foster self-service and scale while maintaining robust security throughout the development process.
