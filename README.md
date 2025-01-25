@@ -34,7 +34,7 @@ Lack of visibility is a major driver of CNAPP adoption and security responsibili
 
 Meanwhile, as cloud security becomes democratized internally, attackers are also evolving their techniques and targets: 
 
-- The attack surface of cloud-native applications and infrastructure is expanding, with attackers focusing on:
+- The **attack surface** of cloud-native applications and infrastructure is expanding, with attackers focusing on:
   - the runtime environment,
     - including network, compute, storage,
     -  identities and permissions,
