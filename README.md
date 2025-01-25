@@ -22,7 +22,7 @@ An ongoing & curated collection of awesome software best practices and technique
 ## `Table of Contents`
  - [What is Cloud-Native Application Protection Platforms](#)
  - [The Importance of a CNAPP](#)
- - [CNAPP & DeveSecops](#)
+ - [CNAPP & DevSecOps](#)
  - [An Array of CNAPP Benefits](#)
  - [Explore the future of CNAPP and cloud security](#)
  - [Considerations When Choosing a CNAPP Tool](#)
