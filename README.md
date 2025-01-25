@@ -26,6 +26,7 @@ An ongoing & curated collection of awesome software best practices and technique
  - [An Array of CNAPP Benefits](#)
  - [Explore the future of CNAPP and cloud security](#)
  - [Considerations When Choosing a CNAPP Tool](#)
+ - [Required Capabilities](#)
 
 
 ## `The Importance of a CNAPP`
@@ -131,7 +132,7 @@ Since the aim of these solutions is to manage risk in how cloud IaaS services ar
 - a service from multi-tenant public cloud services where updates and patches are deployed by the service provider across all tenants with full automation. This is a growing market because of ease of adoption combined with the scalability offered by public clouds.
 - single-tenant services that can operate in various deployment models, i.e., in private or public clouds or even on-premises, where they are operated in a full as-a-service model, i.e., services where updates, patches, etc. are deployed by the service provider across all tenants with full automation.
 
-
+## Required Capabilities
 
 ## `License`
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
