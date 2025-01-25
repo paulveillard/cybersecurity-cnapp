@@ -98,11 +98,11 @@ There is a wide range of solutions on the market that help to secure the way in 
 #### CASB (Cloud Access Security Brokers):
 - It provides control over which SaaS services organizational users can access. CASB discovers shadow IT usage and prevents access to unsanctioned services that the organization considers to be too risky. They often integrate with the major SaaS services to implement fine-grained controls over how these sanctioned services can be used. They also include or integrate with DLP (Data Leakage Prevention) solutions to control which data can be moved to cloud services.
 
-SASE (Secure Access Service Edge) 
-- provides network-based access controls to cloud services. They commonly provide capabilities that are a convergence of SD-WAN (Software Defined Wide Area Networking), SWG (Secure Web Gateways), VPN (Virtual Private Network) and Remote Browser Isolation (RBI) to implement Zero Trust access controls based on the combination of user and device identities.
-•
-CIEM (Cloud Infrastructure Entitlement Management) provides controls over the entitlements possessed by virtual resources. In a software defined infrastructure,The ability to view threats and security vulnerabilities across an organization’s cloud landscape is essential for any CNAPP offering. A CNAPP that lets you see cloud-based, on-premises, and hybrid environments — all in one platform — ensures you’ll be alerted to any issues. A unified platform typically combines:
+#### SASE (Secure Access Service Edge) 
+- It provides network-based access controls to cloud services. They commonly provide capabilities that are a convergence of SD-WAN (Software Defined Wide Area Networking), SWG (Secure Web Gateways), VPN (Virtual Private Network) and Remote Browser Isolation (RBI) to implement Zero Trust access controls based on the combination of user and device identities.
 
+#### CIEM (Cloud Infrastructure Entitlement Management):
+- It provides controls over the entitlements possessed by virtual resources. In a software defined infrastructure,
 
 
 
