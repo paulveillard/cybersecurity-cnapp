@@ -21,3 +21,10 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## `Table of Contents`
  - [CNAPP & DeveSecops](#)
+ - dd
+
+# CNAPP & DevSecOps
+Lack of visibility is a major driver of CNAPP adoption and security responsibility has expanded beyond infosec teams to include additional personas. Gartner shares the following insight:  
+
+> With operational responsibilities shifting toward developers and cloud architects, the need for advanced tools to address vulnerabilities, deploy infrastructure as code and manage production implementations has grown to accommodate this expanded scope. Proactively identifying and prioritizing risks during development, while providing developers with adequate context, is essential due to developers perceiving security as an obstacle.
+
