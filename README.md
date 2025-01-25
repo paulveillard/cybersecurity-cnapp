@@ -12,9 +12,10 @@ An ongoing & curated collection of awesome software best practices and technique
 > CNAPPs incorporate an integrated set of proactive and reactive security capabilities, including artifact scanning, security guardrails, configuration and compliance management, risk detection and prioritization, and behavioral analytics, providing visibility, governance and control from code creation to production runtime. CNAPP solutions use a combination of API integrations with leading cloud platform providers, continuous integration/continuous development (CI/CD) pipeline integrations, and agent and agentless workload integration to offer combined development and runtime security coverage
 
 
-## `Table of Contents`
 
 
 <p align="center">
   <img src="https://github.com/paulveillard/cybersecurity-cnapp/blob/main/img/cnapp.jpg?raw=true" alt="Sublime's custom image"/>
 </p>
+
+## `Table of Contents`
