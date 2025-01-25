@@ -5,7 +5,11 @@ An ongoing & curated collection of awesome software best practices and technique
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 
+## What is Cloud-Native Application Protection Platforms?
 
+**Cloud-native application protection platforms (CNAPPs)** are a unified and tightly integrated set of security and compliance capabilities, designed to protect cloud-native infrastructure and applications. 
+
+> CNAPPs incorporate an integrated set of proactive and reactive security capabilities, including artifact scanning, security guardrails, configuration and compliance management, risk detection and prioritization, and behavioral analytics, providing visibility, governance and control from code creation to production runtime. CNAPP solutions use a combination of API integrations with leading cloud platform providers, continuous integration/continuous development (CI/CD) pipeline integrations, and agent and agentless workload integration to offer combined development and runtime security coverage
 
 
 ## `Table of Contents`
