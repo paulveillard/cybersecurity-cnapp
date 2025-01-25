@@ -25,6 +25,7 @@ An ongoing & curated collection of awesome software best practices and technique
  - [CNAPP & DeveSecops](#)
  - [An Array of CNAPP Benefits](#)
  - [Explore the future of CNAPP and cloud security](#)
+ - [Considerations When Choosing a CNAPP Tool](#)
 
 
 ## The Importance of a CNAPP
