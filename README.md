@@ -49,3 +49,18 @@ Additionally, APIs and the software supply chain itself have become targets for 
   <p align="center">
   <img src="https://github.com/paulveillard/cybersecurity-cnapp/blob/main/img/cnapp-2.png?raw=true" alt="Sublime's custom image"/>
 </p>
+
+## Facilitating a Shift Toward Containerization 
+In the report Gartner projects that by 2029, 35% of all enterprise applications will run in containers, up from less than 15% in 2023.  
+
+> The surge of containerization underscores the increasing reliance on cloud-native architectures and indicates a corresponding need for security solutions that can manage the complexities associated with container environments.  
+
+As developers increasingly utilize container technology, CNAPPs will need to provide enhanced visibility and control over these dynamic workloads.  
+
+## Cross-Team Collaboration 
+- CNAPPs break siloes between application development, cloud architecture, and security operations teams. Having a centralized platform enhances communication and risk identification throughout the development lifecycle. With real-time visibility into workloads and effective vulnerability management, “CNAPPs aim to deliver a comprehensive analysis of various elements and characteristics of the application and cloud environment with a strong emphasis on empowering developers to take responsibility for application risk’’. 
+
+## A Unified Approach to Risk Management  
+One of the most significant advantages of CNAPPs is their ability to provide a unified view of risk across cloud environments. By connecting the dots across various layers of cloud infrastructure, CNAPPs help organizations prioritize risks effectively while consolidating siloed point products, reducing the burden on developers and security teams. 
+
+> Furthermore, by balancing the need for product agility with security requirements, CNAPPs support innovation rather than inhibit it. 
