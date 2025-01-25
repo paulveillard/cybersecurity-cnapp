@@ -150,9 +150,11 @@ Cloud Entitlements Risks – the solution should dynamically discover and analyz
 
 Data Storage Security – the solution should discover and analyze the cloud data storage services to identify, report, and remediate excessive risk. This includes data storage services without appropriate controls (e.g., not encrypted), data storage with public access, and data storage directly exposed to the Internet for a wide range of cloud storage types (File Systems, Object Stores, Databases, etc.).
 
-Cloud Network Security – the solution should discover and analyze cloud network security controls to support a Zero Trust approach to network management. It should discover and map cloud networks, as well as identify, report, and remediate risky firewall configurations, risky permitted network protocols, and poor TLS certificate management and rotation.
+### Cloud Network Security 
+> the solution should discover and analyze cloud network security controls to support a Zero Trust approach to network management. It should discover and map cloud networks, as well as identify, report, and remediate risky firewall configurations, risky permitted network protocols, and poor TLS certificate management and rotation.
 
-Cloud Compute Service Security – the solution should discover and analyze cloud compute services owned to identify, report, and remediate risky configurations. It should cover VMs with risky patch levels, VMs with unmanaged vulnerabilities, and risky configurations for a wide range of VM and OS types. It should also support these capabilities for serverless computing elements.
+### Cloud Compute Service Security 
+> the solution should discover and analyze cloud compute services owned to identify, report, and remediate risky configurations. It should cover VMs with risky patch levels, VMs with unmanaged vulnerabilities, and risky configurations for a wide range of VM and OS types. It should also support these capabilities for serverless computing elements.
 
 
 
